@@ -31,7 +31,7 @@ abstract class RBI{
 
 class SBI extends RBI{
 	void getROIForPL(int roi) {
-		System.out.println("ROI of SBI for PL is "+roi);	
+		//System.out.println("ROI of SBI for PL is "+roi);	
 	}
 
 	void m(){
