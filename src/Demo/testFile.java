@@ -1,4 +1,5 @@
-Class TestFile{
+package Demo;
+class TestFile{
 
 
 }
